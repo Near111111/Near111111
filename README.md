@@ -17,15 +17,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Near111111&show_icons=true&theme=tokyonight"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=Near111111&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+</p>>
 
 ---
 
 ## 💻 Most Used Languages
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Near111111&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Near111111&layout=compact&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 ---
@@ -40,7 +40,7 @@
 
 ## 🐍 Contribution Snake
 
-![snake gif](https://github.com/Near111111/Near111111/blob/output/github-contribution-grid-snake.svg)
+![snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
 ---
 
