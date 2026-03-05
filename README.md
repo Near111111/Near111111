@@ -20,21 +20,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Near111111&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 </p>>
 
----
-
-## 💻 Most Used Languages
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Near111111&layout=compact&theme=tokyonight&cache_seconds=1800" />
-</p>
-
----
-
-## 🔥 Contribution Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Near111111&theme=tokyonight"/>
-</p>
 
 ---
 
